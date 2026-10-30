@@ -1,0 +1,11 @@
+# Document parsing and chunking
+docling==2.26.0
+
+# LLM Embeddings
+google-genai==0.3.0
+
+# Database client for pgvector
+supabase==2.11.0
+
+# Environment variable management
+python-dotenv==1.0.1
